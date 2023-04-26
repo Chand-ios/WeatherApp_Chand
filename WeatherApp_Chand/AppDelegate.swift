@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  WeatherApp_Chand
 //
-//  Created by TEKKR AGRI ORGANICS PRIVATE LIMITED on 26/04/23.
+//  Created by Chand on 26/04/23.
 //
 
 import UIKit
